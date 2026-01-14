@@ -43,7 +43,7 @@
 
 <div align="center">
   <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/Joao2007Pedro/count.svg" alt="Visitors Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoao2007Pedro&count_bg=%23480CA8&title_bg=%234CC9F0&icon=&icon_color=%23E7E7E7&title=VIEWS&edge_flat=false" alt="Visitors Count" />
 </div>
 
 <br>
