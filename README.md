@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  Tenho 18 anos, sou de São Paulo e terminei o técnico em Desenvolvimento de Sistemas pela ETEC. Escolhi tecnologia porque quero construir coisas que funcionam de verdade — não só na tela, mas nos bastidores. Hoje estou mergulhado no ecossistema Java pelo curso PROA Profissão Meu objetivo de curto prazo é entrar no mercado como desenvolvedor back-end júnior e crescer de verdade dentro de um time.
+  Tenho 18 anos, sou de São Paulo e terminei o técnico em Desenvolvimento de Sistemas pela ETEC. Escolhi tecnologia porque quero construir coisas que funcionam de verdade — não só na tela, mas nos bastidores. Hoje estou mergulhado no ecossistema Java pelo curso PROA Profissão. Meu objetivo de curto prazo é entrar no mercado como desenvolvedor back-end júnior e crescer de verdade dentro de um time.
 </p>
 
 ---
