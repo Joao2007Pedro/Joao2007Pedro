@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joao-pedro" target="_blank">
+  <a href="https://www.linkedin.com/in/jpe7dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Joao2007Pedro" target="_blank">
